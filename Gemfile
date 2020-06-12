@@ -26,7 +26,8 @@ group :development, :test do
   gem 'factory_bot_rails', '< 5.0'
   gem 'zonebie'
   gem 'timecop'
-  gem 'faker', '1.7.3'
+  #gem 'faker', '1.7.3'
+  gem 'faker'
   gem 'database_cleaner'
 end
 
